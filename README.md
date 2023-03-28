@@ -3,6 +3,8 @@
 This was a data analytics project conducted in python as part of the the CareerFoundry Data Analytics Programme. 
 
 ## Objective
+![instacart logo](https://upload.wikimedia.org/wikipedia/commons/9/9f/Instacart_logo_and_wordmark.svg)
+
 To conduct initial and exploratory analysis for Instacart Grocery, a US-based online grocery store that operates through an app. The analysis is to derive insights into their sales patterns in order to segment their customers based on profiles and demographics, and then to create targeted marketing campaigns.
 
 ## Data
